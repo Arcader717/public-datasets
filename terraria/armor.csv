@@ -1,0 +1,101 @@
+,id,label,parent
+0,Armor,Armor,
+1,Pre-Hardmode,Pre-Hardmode,Armor
+2,Hardmode,Hardmode,Armor
+3,Pre/Wood,Wood,Pre-Hardmode
+4,Pre/Ore,Ore,Pre-Hardmode
+5,Wizard Set,Wizard Set,Pre-Hardmode
+6,Singles,Single Pieces,Pre-Hardmode
+7,Other,Other,Pre-Hardmode
+8,Post/Wood,Wood,Hardmode
+9,Post/Ore,Ore,Hardmode
+10,preplant,Pre-Plantera,Hardmode
+11,postplant,Post-Plantera,Hardmode
+12,Wooden,Wooden,Pre/Wood
+13,Boreal,Boreal,Pre/Wood
+14,Palm,Palm,Pre/Wood
+15,Rich Mahogany,Rich Mahogany,Pre/Wood
+16,Ebonwood,Ebonwood,Pre/Wood
+17,Shadewood,Shadewood,Pre/Wood
+18,Ash,Ash,Pre/Wood
+19,Copper,Copper,Pre/Ore
+20,Tin,Tin,Pre/Ore
+21,Iron,Iron,Pre/Ore
+22,Lead,Lead,Pre/Ore
+23,Silver,Silver,Pre/Ore
+24,Tungsten,Tungsten,Pre/Ore
+25,Gold,Gold,Pre/Ore
+26,Platinum,Platinum,Pre/Ore
+27,Meteor,Meteor,Pre/Ore
+28,Shadow,Shadow,Pre/Ore
+29,Crimson,Crimson,Pre/Ore
+30,Molten,Molten,Pre/Ore
+31,Robes,Robes,Wizard Set
+32,Amethyst,Amethyst,Robes
+33,Topaz,Topaz,Robes
+34,Sapphire,Sapphire,Robes
+35,Emerald,Emerald,Robes
+36,Ruby,Ruby,Robes
+37,Diamond,Diamond,Robes
+38,Amber,Amber,Robes
+39,Mystic,Mystic,Robes
+40,Hats,Hats,Wizard Set
+41,Magic,Magic,Hats
+42,Wizard,Wizard,Hats
+43,Boots of Ostara,Boots of Ostara,Singles
+44,Empty Bucket,Empty Bucket,Singles
+45,Diving Helmet,Diving Helmet,Singles
+46,Flinx Fur Coat,Flinx Fur Coat,Singles
+47,Gi,Gi,Singles
+48,Goggles,Goggles,Singles
+49,Moon Lord Legs,Moon Lord Legs,Singles
+50,Night Vision Helmet,Night Vision Helmet,Singles
+51,Ultrabright Helmet,Ultrabright Helmet,Singles
+52,Viking Helmet,Viking Helmet,Singles
+53,Angler,Angler,Other
+54,Bee,Bee,Other
+55,Cactus,Cactus,Other
+56,Snow,Snow,Other
+57,Fossil,Fossil,Other
+58,Gladiator,Gladiator,Other
+59,Jungle,Jungle,Other
+60,Mining,Mining,Other
+61,Necro,Necro,Other
+62,Ninja,Ninja,Other
+63,Obsidian,Obsidian,Other
+64,Pumpkin,Pumpkin,Other
+65,Rain,Rain,Other
+66,Pearlwood,Pearlwood,Post/Wood
+67,Cobalt,Cobalt,Post/Ore
+68,Palladium,Palladium,Post/Ore
+69,Mythril,Mythril,Post/Ore
+70,Orichalcum,Orichalcum,Post/Ore
+71,Adamantite,Adamantite,Post/Ore
+72,Titanium,Titanium,Post/Ore
+73,Hallowed,Hallowed,Post/Ore
+74,Chlorophyte,Chlorophyte,Post/Ore
+75,Crystal Assasin,Crystal Assasin,preplant
+76,Frost,Frost,preplant
+77,Forbidden,Forbidden,preplant
+78,Spider,Spider,preplant
+79,Turtle,Turtle,preplant
+80,Apprentice,Apprentice,preplant
+81,Huntress,Huntress,preplant
+82,Monk,Monk,preplant
+83,Squire,Squire,preplant
+84,Dragon,Dragon,preplant
+85,Titan,Titan,preplant
+86,Spectral,Spectral,preplant
+87,Beetle,Beetle,postplant
+88,Tiki,Tiki,postplant
+89,Shroomite,Shroomite,postplant
+90,Spectre,Spectre,postplant
+91,Spooky,Spooky,postplant
+92,Dark Artist,Dark Artist,postplant
+93,Red Riding,Red Riding,postplant
+94,Shinobi Infiltrator,Shinobi Infiltrator,postplant
+95,Valhalla Knight,Valhalla Knight,postplant
+96,Vortex,Vortex,postplant
+97,Nebula,Nebula,postplant
+98,Stardust,Stardust,postplant
+99,Solar Flare,Solar Flare,postplant
