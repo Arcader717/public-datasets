@@ -1,0 +1,30 @@
+,id,label,parent
+0,base,accessories,
+1,move,Movement,base
+2,info,Informational,base
+3,constr,Construction,base
+4,fish,Fishing,base
+5,other,Other,base
+6,dev,Developer Accessories,base
+7,speed,Speed,move
+8,air,Air,move
+9,water,Water,move
+10,m/other,Other,move
+11,,Aglet,speed
+12,,Anklet of the Wind,speed
+13,,Magiluminescence,speed
+14,foot,Footwear,speed
+15,,Amphibian,foot
+16,,Dunerider,foot
+17,,Fairy,foot
+18,,Flurry,foot
+19,,Frostspark,foot
+20,,Hellfire,foot
+21,,Hermes,foot
+22,,Lightning,foot
+23,,Sailfish,foot
+24,,Spectre,foot
+25,,Tabi,foot
+26,,Terraspark,foot
+27,,Panic Necklace,speed
+28,,Sweetheart Necklace,speed
